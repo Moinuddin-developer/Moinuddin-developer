@@ -3,6 +3,7 @@
 ![Moinuddin-developer](https://github.com/Moinuddin-developer/Moinuddin-developer/blob/main/FisrtBnanner.png)
 ![About Me](https://github.com/Moinuddin-developer/Moinuddin-developer/blob/main/SecondBanner.png)
 ![Expertices](https://user-images.githubusercontent.com/105699438/224799398-12023a55-605d-4576-9031-647e4ce63386.png)
+![Skills](https://github.com/Moinuddin-developer/Moinuddin-developer/blob/main/skills%20for%20github.PNG)
 
 I have completed bachelors on computer science and engineering from Punajb Technical University. I try to make myself best what I do. I am looking for a platform to start a career where I can further develop myself and my skill with a hard working attitude. I try to give my best in the work I do. Insha’Allah I hope I to do something better in the future. I intend to establish myself as Data Scientist , Software Engineer & java developer  with an integrated business solution provider through a long time commitment, contributing to the company's growth and in turn ensuring personal growth within the organization. I believe that my technical, functional and communication skills will enable me in facing the challenging career ahead. And i am totally confidence.
 

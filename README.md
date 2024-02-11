@@ -1,7 +1,5 @@
 ### Md Moinuddin
 #### <i>Data Scientist, Machine Learning Engineer, Python developer, Data Engineer, Data Analyst, Tableau Developer and PowerBI Developer   </i>
-![Moinuddin-developer](https://github.com/Moinuddin-developer/Moinuddin-developer/blob/main/FisrtBnanner.png)
-![About Me](https://github.com/Moinuddin-developer/Moinuddin-developer/blob/main/SecondBanner.png)
 ![Expertices](https://user-images.githubusercontent.com/105699438/224799398-12023a55-605d-4576-9031-647e4ce63386.png)
 ![Skills](https://github.com/Moinuddin-developer/Moinuddin-developer/blob/main/skills%20for%20github.PNG)
 
